@@ -1,6 +1,6 @@
 # Notes from Geoff
 
-(Appel's paper)[https://www.cs.princeton.edu/~appel/papers/sqrt.pdf].
+[Appel's paper](https://www.cs.princeton.edu/~appel/papers/sqrt.pdf).
 
 This should be enough to set up the code and be able to step through it in Proof
 General or what-have-you.
@@ -8,7 +8,7 @@ General or what-have-you.
 ## How to install the tools
 
 1. Install opam
-2. Install gappa (from source)[https://gforge.inria.fr/]
+2. Install gappa [from source](https://gforge.inria.fr/)
 ```
 $ sudo apt install libmpfr-dev libboost-dev libgmp-dev
 $ cd gappa-1.3.5
