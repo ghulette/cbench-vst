@@ -8,9 +8,10 @@ General or what-have-you.
 ## How to install the tools
 
 1. Install opam
-2. Install gappa (from source)
+2. Install gappa (from source)[https://gforge.inria.fr/]
 ```
 $ sudo apt install libmpfr-dev libboost-dev libgmp-dev
+$ cd gappa-1.3.5
 $ ./configure --prefix=$HOME/.local
 $ ./remake install
 $ gappa -v
